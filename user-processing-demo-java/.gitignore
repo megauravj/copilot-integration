@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+*.class
+
+# Project-specific
+*.log
+.env
